@@ -1,1 +1,5 @@
-Hello World!
+## Collaboration Log
+
+- Partner: [sharankumar] (@sharan-32)
+- Work completed: Added a greet() function to the Hello World program using Live Share.
+- Learning: GitLens helps identify who last changed a particular line of code and inspect line-by-line commit history, while Live Share allows real-time collaborative coding and shared terminal debugging.
